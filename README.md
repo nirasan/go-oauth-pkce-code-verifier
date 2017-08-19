@@ -1,5 +1,5 @@
 # go-oauth-pkce-code-verifier
-OAuth PKCE code_verifier and code_challenge generator implimented golang.
+[OAuth PKCE](https://tools.ietf.org/html/rfc7636) code_verifier and code_challenge generator implimented golang.
 
 # How to use
 
